@@ -1,0 +1,15 @@
+id; naziv lokacije; adresa lokacije; gps
+1; Autobusni kolodvor; Ulica Zrinskih i Frankopana b.b., 42000 Varaždin; 46.3042389,16.3339548
+2; Bivši Mercator; Ulica Gustava Krkleca 1a, 42000 Varaždin; 46.3114987,16.3244483
+3; Auto Jurković; Ulica Grada Vukovara 238 A, 10000 Zagreb; 45.8004367,15.9924633
+4; HT fast Vukovarska; Iločka ulica 31, 10000 Zagreb; 45.7998697,15.9576883
+5; Kod suda; Ulica Braće Radić bb, 42000 Varaždin; 46.305934, 16.332342
+6; Kod placa; Trg bana Jelačića bb, 42000 Varaždin; 46.31086, 16.338214
+7; Kod Sjevera; Vinka Međerala, 42000 Varaždin; 46.300334, 16.328326
+8; Crodux Optujska; Optujska, 42000 Varaždin; 46.322272, 16.302556
+9; ELEN Ludbreg; Preradovićeva ul. 2, 42230 Ludbreg; 46.249287, 16.618774
+10; Martijanec; Varaždinska ulica, Martijanec; 46.264236, 16.539667
+11; Sračinec; Varaždinska ulica, Sračinec; 46.334301, 16.266041
+12; Kod bazena; Športska ulica 2, 40000 Čakovec; 46.3924732003308, 16.4184536785735
+13; Kod hotela Park; Ulica Zrinsko Frankopanska BB, 40000 Čakovec; 46.388656, 16.427646
+14; Kod stare knjižnice; Parking šetalište BB, 40000 Čakovec; 46.389655, 16.434666

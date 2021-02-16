@@ -1,0 +1,13 @@
+vozila=C:\Users\ivale\Desktop\ilevak_zadaca_3\DZ_3_vozila.txt
+lokacije=C:\Users\ivale\Desktop\ilevak_zadaca_3\DZ_3_lokacije.txt
+cjenik=C:\Users\ivale\Desktop\ilevak_zadaca_3\DZ_3_cjenik.txt
+kapaciteti=C:\Users\ivale\Desktop\ilevak_zadaca_3\DZ_3_lokacije_kapaciteti.txt
+osobe=C:\Users\ivale\Desktop\ilevak_zadaca_3\DZ_3_osobe.txt 
+vrijeme=2020-10-16 08:00:00
+struktura=C:\Users\ivale\Desktop\ilevak_zadaca_3\DZ_3_tvrtka.txt
+aktivnosti=C:\Users\ivale\Desktop\ilevak_zadaca_3\DZ_3_aktivnosti.txt
+tekst=20
+cijeli=5
+decimala=2
+dugovanje=1000,00
+izlaz=izlaz.txt

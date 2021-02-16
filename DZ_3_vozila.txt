@@ -1,0 +1,5 @@
+id; naziv vozila; vrijeme punjenja baterije; domet
+1; romobil; 4; 20
+2; bicikl; 4; 100
+3; skuter; 8; 45
+4; auto; 1; 120

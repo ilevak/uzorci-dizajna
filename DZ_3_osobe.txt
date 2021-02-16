@@ -1,0 +1,15 @@
+id; ime i prezime; ugovor
+1; Pero Kos; 1
+2; Mirko Modrulj;1
+3; Zoran Zec; 1
+4; Tomislav Tvor; 0
+5; Katarina Knez; 0
+6; Bruno Bik; 0
+7; Marija Medved; 0
+8; Mislav Mrav; 0
+9; Romina Rak; 0
+10; Sanja Smuđ; 0
+11; Gordana Golub; 0 
+12; Rene Ris; 0
+13; Vesna Vrana; 0
+14; Franjo Fratarič; 0

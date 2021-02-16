@@ -1,0 +1,158 @@
+6; struktura stanje 3
+
+|Naziv OJ            |Naziv Vozila        |Rasp.|Rasp.|Vozil|
+-------------------------------------------------------------
+|Varaždin grad       |romobil             |    5|   12|    0|
+|Varaždin grad       |bicikl              |    8|    7|    0|
+|Varaždin grad       |skuter              |    9|    7|    0|
+|Varaždin grad       |auto                |    4|    8|    0|
+|:Autobusni kolodvor |romobil             |    2|    3|    0|
+|:Autobusni kolodvor |bicikl              |    2|    3|    0|
+|:Autobusni kolodvor |skuter              |    2|    3|    0|
+|:Autobusni kolodvor |auto                |    0|    2|    0|
+|:Bivši Mercator     |romobil             |    3|    0|    0|
+|:Bivši Mercator     |bicikl              |    2|    1|    0|
+|:Bivši Mercator     |skuter              |    0|    2|    0|
+|:Bivši Mercator     |auto                |    1|    1|    0|
+|:Kod suda           |romobil             |    0|    2|    0|
+|:Kod suda           |bicikl              |    0|    0|    0|
+|:Kod suda           |skuter              |    0|    0|    0|
+|:Kod suda           |auto                |    0|    2|    0|
+|:Kod placa          |romobil             |    0|    2|    0|
+|:Kod placa          |bicikl              |    0|    2|    0|
+|:Kod placa          |skuter              |    2|    0|    0|
+|:Kod placa          |auto                |    2|    0|    0|
+|:Kod Sjevera        |romobil             |    0|    5|    0|
+|:Kod Sjevera        |bicikl              |    4|    1|    0|
+|:Kod Sjevera        |skuter              |    4|    1|    0|
+|:Kod Sjevera        |auto                |    0|    2|    0|
+|:Crodux Optujska    |romobil             |    0|    0|    0|
+|:Crodux Optujska    |bicikl              |    0|    0|    0|
+|:Crodux Optujska    |skuter              |    1|    1|    0|
+|:Crodux Optujska    |auto                |    1|    1|    0|
+-------------------------------------------------------------
+1; 2020-10-16 08:01:00; 1; 6; 1
+Za vozilo romobil na lokaciji Kod placa ima 2 raspolozivih vozila
+1; 2020-10-16 08:00:01; 1; 8; 1
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2; 2020-10-16 08:05:00; 1; 6; 1
+Osoba Pero Kos je unajmila vozilo romobil na lokaciji Kod placa
+2; 2020-10-16 08:05:01; 1; 6; 1
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2; 2020-10-16 08:30:00; 1; 7; 4
+Osoba Pero Kos je unajmila vozilo auto na lokaciji Kod Sjevera
+6; struktura stanje 3
+
+|Naziv OJ            |Naziv Vozila        |Rasp.|Rasp.|Vozil|
+-------------------------------------------------------------
+|Varaždin grad       |romobil             |    6|   11|    0|
+|Varaždin grad       |bicikl              |    8|    7|    0|
+|Varaždin grad       |skuter              |    9|    7|    0|
+|Varaždin grad       |auto                |    5|    7|    0|
+|:Autobusni kolodvor |romobil             |    2|    3|    0|
+|:Autobusni kolodvor |bicikl              |    2|    3|    0|
+|:Autobusni kolodvor |skuter              |    2|    3|    0|
+|:Autobusni kolodvor |auto                |    0|    2|    0|
+|:Bivši Mercator     |romobil             |    3|    0|    0|
+|:Bivši Mercator     |bicikl              |    2|    1|    0|
+|:Bivši Mercator     |skuter              |    0|    2|    0|
+|:Bivši Mercator     |auto                |    1|    1|    0|
+|:Kod suda           |romobil             |    0|    2|    0|
+|:Kod suda           |bicikl              |    0|    0|    0|
+|:Kod suda           |skuter              |    0|    0|    0|
+|:Kod suda           |auto                |    0|    2|    0|
+|:Kod placa          |romobil             |    1|    1|    0|
+|:Kod placa          |bicikl              |    0|    2|    0|
+|:Kod placa          |skuter              |    2|    0|    0|
+|:Kod placa          |auto                |    2|    0|    0|
+|:Kod Sjevera        |romobil             |    0|    5|    0|
+|:Kod Sjevera        |bicikl              |    4|    1|    0|
+|:Kod Sjevera        |skuter              |    4|    1|    0|
+|:Kod Sjevera        |auto                |    1|    1|    0|
+|:Crodux Optujska    |romobil             |    0|    0|    0|
+|:Crodux Optujska    |bicikl              |    0|    0|    0|
+|:Crodux Optujska    |skuter              |    1|    1|    0|
+|:Crodux Optujska    |auto                |    1|    1|    0|
+-------------------------------------------------------------
+4; 2020-10-16 10:25:01; 1; 8; 1; 15
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+4; 2020-10-16 10:26:00; 1; 2; 1; 15
+Vratili ste vozilo!Stavke racuna: 
+ najam romobil : 5.0kn 
+ najam je bio 3 sata : 3*2.0=6.0kn 
+ vozilo je proslo 15km : 15*1.0=15.0kn
+ Racun ukupno iznosi ; 26.0kn
+ RAČUN NIJE PLAČEN!
+2; 2020-10-16 11:26:01; 1; 2; 1
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+4; 2020-10-17 15:57:01; 7; 2; 1; 25
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+6; struktura stanje 6
+
+|Naziv OJ            |Naziv Vozila        |Rasp.|Rasp.|Vozil|
+-------------------------------------------------------------
+-------------------------------------------------------------
+4; 2020-10-17 15:58:00; 1; 4; 4; 96
+Vratili ste vozilo!Stavke racuna: 
+ najam auto : 30.0kn 
+ najam je bio 32 sata : 32*5.0=160.0kn 
+ vozilo je proslo 96km : 96*5.0=480.0kn
+ Racun ukupno iznosi ; 670.0kn
+ RAČUN NIJE PLAČEN!
+7; struktura najam zarada 01.01.2020 01.01.2022 6
+
+|Naziv OJ            |Naziv Vozila        |Broj |Traja|  Zarada|
+----------------------------------------------------------------
+----------------------------------------------------------------
+8; struktura računi 01.01.2020 01.01.2022 3
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+9
+
+|Id os|Ime i prezime       |Dugovanj|Datum zadnjeg najma |
+----------------------------------------------------------
+|    1|Pero Kos            |  696.00|2020-10-16 08:30:00 |
+|    2|Mirko Modrulj       |    0.00|                    |
+|    3|Zoran Zec           |    0.00|                    |
+|    4|Tomislav Tvor       |    0.00|                    |
+|    5|Katarina Knez       |    0.00|                    |
+|    6|Bruno Bik           |    0.00|                    |
+|    7|Marija Medved       |    0.00|                    |
+|    8|Mislav Mrav         |    0.00|                    |
+|    9|Romina Rak          |    0.00|                    |
+|   10|Sanja Smuđ          |    0.00|                    |
+|   11|Gordana Golub       |    0.00|                    |
+|   12|Rene Ris            |    0.00|                    |
+|   13|Vesna Vrana         |    0.00|                    |
+|   14|Franjo Fratar       |    0.00|                    |
+----------------------------------------------------------
+10; 1 01.01.2020 31.11.2020
+
+|Id ra|   Iznos|Datum izdavanja     |Status              |Vrsta vozila        |Lokacija Najma      |
+--------------------------------------------------------------------------------------------------
+|    1|   26.00|2020-10-16 08:05:00 |DUG                 |romobil             |Kod placa           |
+|    2|  670.00|2020-10-16 08:30:00 |DUG                 |auto                |Kod Sjevera         |
+--------------------------------------------------------------------------------------------------
+11; 1 123,45
+ID RAČUNA:  1 
+DATUM IZDAVANJA:2020-10-16 08:05:00 
+PLAČENI IZNOS:26.0
+VRACENO: 97.45
+9
+
+|Id os|Ime i prezime       |Dugovanj|Datum zadnjeg najma |
+----------------------------------------------------------
+|    1|Pero Kos            |  670.00|2020-10-16 08:30:00 |
+|    2|Mirko Modrulj       |    0.00|                    |
+|    3|Zoran Zec           |    0.00|                    |
+|    4|Tomislav Tvor       |    0.00|                    |
+|    5|Katarina Knez       |    0.00|                    |
+|    6|Bruno Bik           |    0.00|                    |
+|    7|Marija Medved       |    0.00|                    |
+|    8|Mislav Mrav         |    0.00|                    |
+|    9|Romina Rak          |    0.00|                    |
+|   10|Sanja Smuđ          |    0.00|                    |
+|   11|Gordana Golub       |    0.00|                    |
+|   12|Rene Ris            |    0.00|                    |
+|   13|Vesna Vrana         |    0.00|                    |
+|   14|Franjo Fratar       |    0.00|                    |
+----------------------------------------------------------
